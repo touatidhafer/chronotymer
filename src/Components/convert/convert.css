@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Quantico&display=swap');
+.Convert{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+input{
+    margin-top: 30px;
+    border: 1px solid rgba(238, 238, 238, 0);
+    width: 300px;
+    font-size: 30px;
+    border-bottom: 3px solid #d12304;
+}
+.result{
+align-items: center;
+font-family: 'Quantico', sans-serif;
+font-size:50px;
+font-weight:bold;
+margin: 40px 40px;
+
+}
+.description{
+    display: flex;
+     
+}
+.description>p{
+    font-family:'Quantico', sans-serif;
+    font-size:30px;
+    font-weight:bold;
+    margin: 40px 10px;
+}
